@@ -1,0 +1,39 @@
+body {
+  color: white;
+  font-family: 'Raleway';
+}
+.header-style {
+  background-color: #F78E69;
+  padding: 2rem;
+}
+.pinky-line{
+  height: 20px;
+  background-color: #F48C68;  
+}
+.panda-image{
+  filter: grayscale(100%);
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+}
+.panda-principal {
+  background-image: url('../assets/img/uno.jpg');
+}
+.panda-secundario {
+  background-image: url('../assets/img/dos.jpg');
+}
+.panda-tercero {
+  background-image: url('../assets/img/tres.jpg');
+}
+.div-green {
+  background-color: #ABE188;
+  padding: 4rem 0;
+}
+.div-pinky {
+  padding: 1rem 3rem;
+  background-color: #F78E69;
+}
+footer {
+  background-color: #F78E69;
+  padding: 0.5rem;
+}
